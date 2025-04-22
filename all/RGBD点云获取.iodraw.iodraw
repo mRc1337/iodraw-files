@@ -45,7 +45,7 @@
         <mxCell id="A4-QWw9Nps0dPSwpslPG-20" value="&lt;div&gt;&lt;b&gt;-&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A4-QWw9Nps0dPSwpslPG-22" value="机械臂关节位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A4-QWw9Nps0dPSwpslPG-22" value="环境点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
