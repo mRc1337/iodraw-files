@@ -23,7 +23,7 @@
           <mxGeometry x="270" y="230" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-10" value="去除机械臂点云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="170" width="130" height="20" as="geometry" />
+          <mxGeometry x="310" y="170" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4-QWw9Nps0dPSwpslPG-11" target="A4-QWw9Nps0dPSwpslPG-15">
           <mxGeometry relative="1" as="geometry">
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-11" value="机械臂关节位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="220" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4-QWw9Nps0dPSwpslPG-15" target="A4-QWw9Nps0dPSwpslPG-22">
           <mxGeometry relative="1" as="geometry" />
