@@ -13,6 +13,9 @@
         <mxCell id="A4-QWw9Nps0dPSwpslPG-3" value="障碍物点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="101" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="A4-QWw9Nps0dPSwpslPG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4-QWw9Nps0dPSwpslPG-5" target="A4-QWw9Nps0dPSwpslPG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-5" value="三维点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="60" height="50" as="geometry" />
         </mxCell>
@@ -22,7 +25,7 @@
         <mxCell id="A4-QWw9Nps0dPSwpslPG-10" value="去除机械臂点云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="130" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="A4-QWw9Nps0dPSwpslPG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A4-QWw9Nps0dPSwpslPG-11">
+        <mxCell id="A4-QWw9Nps0dPSwpslPG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A4-QWw9Nps0dPSwpslPG-11" target="A4-QWw9Nps0dPSwpslPG-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="260" as="targetPoint" />
           </mxGeometry>
