@@ -22,8 +22,8 @@
         <mxCell id="A4-QWw9Nps0dPSwpslPG-9" value="降采样，滤波" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A4-QWw9Nps0dPSwpslPG-10" value="降采样，滤波" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="80" height="20" as="geometry" />
+        <mxCell id="A4-QWw9Nps0dPSwpslPG-10" value="去除机械臂点云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="200" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
