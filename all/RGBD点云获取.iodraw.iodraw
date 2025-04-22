@@ -7,11 +7,11 @@
         <mxCell id="A4-QWw9Nps0dPSwpslPG-1" value="深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A4-QWw9Nps0dPSwpslPG-3" value="深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="220" width="50" height="50" as="geometry" />
+        <mxCell id="A4-QWw9Nps0dPSwpslPG-3" value="障碍物点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="230" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A4-QWw9Nps0dPSwpslPG-5" value="三维点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="230" width="50" height="50" as="geometry" />
+          <mxGeometry x="220" y="230" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
