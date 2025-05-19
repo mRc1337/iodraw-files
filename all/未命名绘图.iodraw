@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-19" value="Kinematic Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="170" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-22" target="LEhGmCxyINz3zvGAdb8E-24">
           <mxGeometry relative="1" as="geometry" />
