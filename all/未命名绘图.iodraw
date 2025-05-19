@@ -28,13 +28,13 @@
         <mxCell id="LEhGmCxyINz3zvGAdb8E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-9" target="LEhGmCxyINz3zvGAdb8E-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEhGmCxyINz3zvGAdb8E-9" value="机械臂控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEhGmCxyINz3zvGAdb8E-9" value="Controler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="310.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-11" target="LEhGmCxyINz3zvGAdb8E-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEhGmCxyINz3zvGAdb8E-11" value="多关节斥力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEhGmCxyINz3zvGAdb8E-11" value="Repulsion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-13" target="LEhGmCxyINz3zvGAdb8E-15">
