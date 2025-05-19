@@ -46,7 +46,7 @@
         <mxCell id="LEhGmCxyINz3zvGAdb8E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-15" target="LEhGmCxyINz3zvGAdb8E-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEhGmCxyINz3zvGAdb8E-15" value="目标引力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEhGmCxyINz3zvGAdb8E-15" value="Attraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-17" target="LEhGmCxyINz3zvGAdb8E-9">
