@@ -90,7 +90,7 @@
           <mxGeometry x="60" y="310.62" width="160" height="39.38" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-28" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Joint angle&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="80" height="39.38" as="geometry" />
+          <mxGeometry x="470" y="260" width="80" height="39.38" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-30" target="LEhGmCxyINz3zvGAdb8E-2">
           <mxGeometry relative="1" as="geometry" />
@@ -103,8 +103,8 @@
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="240" as="sourcePoint" />
-            <mxPoint x="810" y="240" as="targetPoint" />
+            <mxPoint x="9" y="249.38" as="sourcePoint" />
+            <mxPoint x="819" y="249.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
