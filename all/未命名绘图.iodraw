@@ -13,7 +13,7 @@
         <mxCell id="LEhGmCxyINz3zvGAdb8E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-4" target="LEhGmCxyINz3zvGAdb8E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEhGmCxyINz3zvGAdb8E-4" value="三维点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEhGmCxyINz3zvGAdb8E-4" value="Point Cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="60.65" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEhGmCxyINz3zvGAdb8E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LEhGmCxyINz3zvGAdb8E-6" target="LEhGmCxyINz3zvGAdb8E-24">
